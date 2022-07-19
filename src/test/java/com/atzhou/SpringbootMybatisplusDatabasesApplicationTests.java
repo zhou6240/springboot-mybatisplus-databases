@@ -8,6 +8,9 @@ class SpringbootMybatisplusDatabasesApplicationTests {
 
     @Test
     void contextLoads() {
+
+
+
     }
 
 }
